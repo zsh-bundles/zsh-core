@@ -1,0 +1,3 @@
+[submodule "vendor/grml-etc-core"]
+	path = vendor/grml-etc-core
+	url = git@github.com:zsh-bundles/grml-etc-core.git
